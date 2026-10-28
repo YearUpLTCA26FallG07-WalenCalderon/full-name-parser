@@ -1,3 +1,5 @@
+package com.pluralsight;
+
 /*
 * EXERCISE 2
 Step 1
